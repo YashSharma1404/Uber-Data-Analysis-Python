@@ -16,7 +16,6 @@ This project analyzes Uber ride data to uncover trends in time of ride, monthly 
 
 ## 📁 Files Included
 - `UberData-checkpoint.ipynb`: Full Jupyter notebook with code & analysis
-- `UberData-checkpoint.html`: Viewable version without Jupyter
 - `README.md`: Project overview
 
 ## 📌 How to Use
